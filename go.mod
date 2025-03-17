@@ -1,4 +1,4 @@
-module github.com/polluxdev/go-validator
+module github.com/polluxdev/go-validify
 
 go 1.24.0
 
